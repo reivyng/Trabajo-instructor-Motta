@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     height: 100vh; /* Altura del viewport */
-    background-image: url('/img/paisaje.jpeg');
+    background-image: url('../img/paisaje.jpeg');
     background-size: cover; /* Hace que la imagen cubra todo el fondo */
     background-position: center; /* Centra la imagen */
 }
